@@ -31,7 +31,6 @@ class User extends Authenticatable
      *借助对 table 属性的定义，来指明要进行数据库交互的数据库表名称
      *
     **/
-    protected $table = 'user';
-
+    protected $table = 'users';
 
 }
