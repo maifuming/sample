@@ -10,11 +10,7 @@
       一切，将从这里开始。
     </p>
     <p>
-<<<<<<< HEAD
       <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">现在注册</a>
-=======
-      <a class="btn btn-lg btn-success" href="#" role="button">现在注册</a>
->>>>>>> c2675e6294bbbe703da21e7114eb53dc0dc41fe7
     </p>
   </div>
 @stop
